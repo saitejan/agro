@@ -11,4 +11,4 @@ to start the server, enter the following commands in terminal by goinig to the r
 
 `npm install`
 
-`node server.js'
+`node server.js`
