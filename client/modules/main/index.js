@@ -12,7 +12,6 @@ angular.module('appMain',['appMainCtrl'])
        
         .state('app.about', {
             url: "/about",
-           
             templateUrl: "modules/main/template/temp1.html"
         })
 
